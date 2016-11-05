@@ -146,6 +146,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\..\..\game\resume\ECE 250\lab2\ece250.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\game\resume\ECE 250\lab2\Exception.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\game\resume\ECE 250\lab2\LinearHashTable.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\game\resume\ECE 250\lab2\Linear_hash_table_tester.h" />
+    <ClInclude Include="..\..\..\..\..\..\..\game\resume\ECE 250\lab2\Tester.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\..\..\game\resume\ECE 250\lab2\Linear_hash_table_int_driver.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
